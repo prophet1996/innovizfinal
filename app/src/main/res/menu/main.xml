@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/face"
+       app:showAsAction="never"
+        android:orderInCategory="100"
+        android:title="FACEBOOK"
+        />
+    <item
+        android:id="@+id/twit"
+        app:showAsAction="never"
+        android:orderInCategory="200"
+        android:title="TWITTER"
+        />
+    <item
+        android:id="@+id/insta"
+        app:showAsAction="never"
+        android:orderInCategory="300"
+        android:title="INSTAGRAM"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="400"
+        android:title="ABOUT DEVELOPERS"
+        app:showAsAction="never" />
+</menu>

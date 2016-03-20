@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">INNOVIZ\'16</string>
+    <string name="signed_in_fmt">Congrats you are now signed in : %s Press back to continue</string>
+    <string name="signed_in">Signed in</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="signed_out">Signed out</string>
+    <string name="facebook_app_id">564393703723168</string>
+    <string name="title_activity_nav_drawer">navDrawer</string>
+    <string-array name="planets_array">
+
+        <item>m</item>
+        <item>m</item>
+        <item>m</item>
+        <item>v</item>
+        <item>e</item>
+        <item>m</item>
+        <item>k</item>
+    </string-array>
+
+    <string-array name="planets_array2">
+        <item>m</item>
+        <item>m</item>
+        <item>m</item>
+        <item>m</item>
+        <item>v</item>
+        <item>e</item>
+        <item>m</item>
+        <item>j</item>
+        <item>s</item>
+        <item>u</item>
+        <item>u</item>
+        <item>u</item>
+        <item>u</item>
+        <item>u</item>
+        <item>u</item>
+        <item>u</item>
+    </string-array>
+    <string-array name="planets_array3">
+        <item>m</item>
+        <item>m</item>
+        <item>m</item>
+        <item>m</item>
+        <item>v</item>
+
+        <item>m</item>
+        <item>j</item>
+
+
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main">MainActivity</string>
+</resources>
